@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{19A6527F-03EA-CF19-FC4F-AD763582ECB6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ThrustCreator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ThrustCreator.cs" Line="8" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
